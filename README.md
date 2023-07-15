@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Abed
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning angular ,php ,mysql ,laravel
+- 🌱 I’m currently learning react ,NODEjs 
 - 💞️ I’m looking to collaborate on web building
 - 📫 How to reach me ...
 
